@@ -1,0 +1,1574 @@
+# Array shape: (11, 11, 11, 11)
+# Ankle and Hip Angle: [-0.06748780609727054, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.06748780609727054, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.05652790004901938, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.04556799400076822, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.034608087952517054, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.023648181904265896, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.012688275856014737, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [-0.0017283698077635717, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.009231536240487587, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.020191442288738745, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.031151348336989904, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, -0.16558630976741184]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, -0.128964479631334]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, -0.09234264949525614]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, -0.05572081935917829]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, -0.019098989223100438]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.0175228409129774]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.054144671049055265]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.09076650118513313]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.12738833132121097]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.1640101614572888]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
+# Ankle and Hip Angle: [0.04211125438524106, 0.20063199159336667]
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan nan nan nan 
+
