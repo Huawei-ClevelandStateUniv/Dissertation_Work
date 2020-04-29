@@ -1,7 +1,7 @@
 # Dissertation_Work
 This repo includes the research code of my dissertation work
 
-The data used by this code is stored in the Zenodo (DOI 10.5281/zenodo.3767611). Download and merge together with the folders in this repository, then the work of my dissertation can be reproduced.
+The data used by this code is stored in the Zenodo ([DOI 10.5281/zenodo.3767611](https://zenodo.org/record/3767612#.XqjyTWhKhyw)). Download and merge together with the folders in this repository, then the work of my dissertation can be reproduced.
 
 This code is organized with the order of dissertation chapters:
 
