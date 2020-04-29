@@ -1,5 +1,5 @@
-# Stochastic_Paper
-This repository includes the code and materials of the Stochastic Optimization Paper.
+# Chapter 4
+The code for chapter 4 is included in this folder.
 
 
 
