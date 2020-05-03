@@ -7,7 +7,7 @@ The code for chatper 6 is included in this folder.
 
 ## Walking data
 
-This folder constains the the processing code of the experimental walking data. Processed data was saved on the Zenodo (DOI 10.5281/zenodo.3767611) (Chapter 6).
+This folder constains the the processing code of the experimental walking data. Processed data was saved on the Zenodo <DOI 10.5281/zenodo.3767611> (Chapter 6).
 
 ## Gait model
 
